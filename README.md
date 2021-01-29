@@ -1,5 +1,6 @@
 ### Hi, I'm Arjun 👋
 
+- 💻 Incoming Software Engineer Intern (Big Data and Cloud Platform) @ Rakuten Inc.
 - 🧠 I’m primarily interested in data engineering and data science
 - 💬 I have the most experience working with Python, R, Java, and SQL
 - 😎 Data processing, data visualization, web scraping, predictive analytics, regression, and data mining are my areas of expertise
