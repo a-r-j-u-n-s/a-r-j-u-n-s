@@ -1,7 +1,7 @@
 ### Hi, I'm Arjun 👋
 
-- 💻 Former Software Engineer Intern (Big Data and Cloud Platform) @ Rakuten
-- 🧠 I’m primarily interested in data engineering
+- 💻 Incoming SWE Intern @ Microsoft
+- 🧠 I'm studying Electrical and Computer Engineering at the University of Washington with a concentration in Embedded Computing Systems
 - 💬 I have the most experience working with Python and Java
 - 😎 Backend cloud infrastructure, data engineering, and scripting/CLIs are my areas of expertise
 - 🎸 I'm also an avid guitarist and music producer!
