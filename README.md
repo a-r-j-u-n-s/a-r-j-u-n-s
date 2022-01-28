@@ -1,6 +1,6 @@
 ### Hi, I'm Arjun 👋
 
-- 💻 Software Engineer (Intern)
+- 💻 Software Developer, [check out my website](https://a-r-j-u-n-s.github.io/)
 - 🧠 I'm studying Electrical and Computer Engineering at the University of Washington with a concentration in Digital Signal Processing
 - 💬 I have the most experience working with Python, C, and Java
 - 😎 Data engineering, server-side web development, and scripting/CLIs are my areas of expertise
