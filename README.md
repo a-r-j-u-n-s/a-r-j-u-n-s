@@ -1,4 +1,4 @@
-### Hi, I'm Arjun 👋
+### I'm Arjun 👋
 
 - 💻 Software developer, [check out my website!](https://a-r-j-u-n-s.github.io/)
 - 🧠 Experienced with Python, JavaScript, C/C++, and Java
